@@ -1,0 +1,8 @@
+.formulaire {
+    width: 700px;
+    background-color: #08FFFD;
+}
+
+.button {
+    background-color: linear-gradient(to right, rgb(250, 254, 42), rgb(226, 34, 34));;
+}
