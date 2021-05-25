@@ -4,5 +4,6 @@
 }
 
 .button {
-    background-color: linear-gradient(to right, rgb(250, 254, 42), rgb(226, 34, 34));;
+    background-color: linear-gradient(to right, rgb(250, 254, 42), rgb(226, 34, 34));
+    text-align: center;
 }
